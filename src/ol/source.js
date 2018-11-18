@@ -28,3 +28,4 @@ export {default as VectorTile} from './source/VectorTile.js';
 export {default as WMTS} from './source/WMTS.js';
 export {default as XYZ} from './source/XYZ.js';
 export {default as Zoomify} from './source/Zoomify.js';
+export {default as Omap} from './source/Omap.js';
